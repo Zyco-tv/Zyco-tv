@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/litaudontom" target="blank"><img src="https://img.shields.io/twitter/follow/litaudontom?logo=twitter&style=for-the-badge" alt="litaudontom" /></a> </p>
 
-- 🔭 Je travaille chez **Génésis**
+- 🔭 Je travaille chez **https://genesis-groupe.fr**
 
 - 🌱 J'apprend **Back stack**
 
