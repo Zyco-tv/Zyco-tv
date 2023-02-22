@@ -1,5 +1,5 @@
 <h1 align="center">Salut 👋, Je m'appelle Tom Litaudon</h1>
-<h3 align="center">Un jeune développeur Français</h3>
+<h3 align="center">Jeune développeur Français</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zyco-tv&label=Profile%20views&color=0e75b6&style=flat" alt="zyco-tv" /> </p>
 
