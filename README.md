@@ -35,5 +35,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zyco-tv&show_icons=true&locale=en" alt="zyco-tv" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zyco-tv&" alt="zyco-tv" /></p>
-
