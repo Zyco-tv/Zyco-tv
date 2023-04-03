@@ -11,8 +11,6 @@
 
 - 🌱 J'apprend **Back stack**
 
-- 👯 Je collabore **VisionRP**
-
 - 🤝 Si tu as besoin d'aide viens me voir sur **Discord: Zyco#0001**
 
 - 👨‍💻 All of my projects are available at [http://tom-litaudon.fr](http://tom-litaudon.fr)
