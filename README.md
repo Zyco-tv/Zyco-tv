@@ -11,9 +11,9 @@
 
 - 🌱 J'apprend **Back stack**
 
-- 🤝 Si tu as besoin d'aide viens me voir sur **Discord: Zyco#0001**
+- 🤝 Si tu as besoin d'aide viens me voir sur **Discord: zycoo0098_34836**
 
-- 👨‍💻 All of my projects are available at [[http://tom-litaudon.fr](https://web-proximity.fr)]
+- 👨‍💻 All of my projects are available at [[[http://tom-litaudon.fr](https://web-proximity.fr/)](https://web-proximity.fr)]
 
 - 💬 Des question sur **Front stack**
 
